@@ -1,12 +1,7 @@
 import stanford.karel.*;
 kaudyfgweruf
 public class HW2First extends SuperKarel{
-<<<<<<< HEAD
-conflict
-=======
          
-
->>>>>>> 09de112ab6c6ba85b3be2e9ad6d3284029d3bd39
 	public void run() {
 		gogaz();
 		takegaz();
