@@ -1,7 +1,7 @@
 import stanford.karel.*;
 
 public class HW2First extends SuperKarel{
-
+conflict
 	public void run() {
 		gogaz();
 		takegaz();
@@ -21,10 +21,6 @@ public class HW2First extends SuperKarel{
 			pickBeeper();
 			turnAround();
 		}
-
-
-
-
 		private void goback(){
 			go1();
 			turnRight();
