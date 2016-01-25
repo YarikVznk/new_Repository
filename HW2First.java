@@ -18,6 +18,10 @@ public class HW2First extends SuperKarel{
 			pickBeeper();
 			turnAround();
 		}
+
+
+
+
 		private void goback(){
 			go1();
 			turnRight();
