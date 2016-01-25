@@ -10,6 +10,9 @@ public class HW2First extends SuperKarel{
 		private void gogaz(){
 			go1();
 			turnRight();
+			turnRight();
+			turnRight();
+			turnRight();
 			go2();
 			turnLeft();
 			go3();
