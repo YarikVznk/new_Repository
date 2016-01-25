@@ -6,6 +6,8 @@ public class HW2Second extends SuperKarel {
 		go();
 	}
 
+
+
 	private void go() {
 		if (leftIsBlocked()) {
 			find_up();
